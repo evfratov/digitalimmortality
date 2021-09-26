@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/evfratov/digitalimmortality/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
+Many years - both with Russian Transhuman Movement and autonomously) I support idea of Digital Immortality (**DI**) in narrow sense. The "Plan C" of  Medvedev/Turchin, the "Loosely-coupled off-loading" of Randall Koene, resurrection theory Simons-Mishenko-Trapeznikov, Terasem avatars and historical example of "resurrection of those who ever lived" Nikolay Federov's idea - all these conceptions and projects have the same basis. The hypothesis that the personality may be reconstructed by secondary,  indirect, behavioral information only. Looks like Quantify Yourself but with different aim - creation of a digital  backup of yourself (limited by current technology).
+When technologies will became sufficiently for full personality reconstruction from behavioral data  - this method will considered as **indirect mind uploading** in contrast of hypothetical brain scanning methods which are "classical" for mind uploading ideas. Also this idea is needed for cryonics - even Robert Ettinger mentioned in "The Prospects of Immortality" that saved information about cryopreserved person's life will be needed for fixing of possible memory loss/mental damage due to imperfectness of cryopreservation. Absence of requirements of person's brain for this type mind uploading opens way for digital resurrection of the deceased persons who left a lot of data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experimental Group
+It is needed to form the Experimental Computational Working Group for "Digital Immortality" (**DI**) in narrow sense - non-profit Team of experimenters and scientists in ML, psychology and etc. for development and testing of concepts and prototypes of platforms for personality reconstruction. Now we can speculate that the Team will work with a complex custom framework of ML (such as generative neural networks) and other data science instruments with a lot of additional elements (such as recognition tools) in multi-modal format: textual modality, audio, video, static images and different kind of medical data. As cases Team can take deceases persons who left a lot of different kind of data about themself, there is a personal example. Team should start to develop standards, requirements for data, working processes, nuances and etc. Obviously an investing is a good way to go and specialized branches/projects are expected.
 
-### Markdown
+## Project "Muse"
+Ready to start small profit-oriented web service which can give some help for arts and writers who are in a creative crisis. Service takes (provided by user) current author's material and generative neural networks will produce something similar in the same style - author can use it as seeding. Technically this service can be derived as mono-modal module from Experimental Group workflow. Functions may be extended by providing of fine tuning of settings by user and by incorporation of public domain arts/texts.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Platform "VVMan"
+Creation of platform for full reconstruction of personality from indirect information is huge ulta-long-term multidisciplinary and multi-institutional project. There were many projects from small chat bots to organizations but we still have no solid and consolidated initiative which has the personality reconstruction as declared aim. Someone should start this - run international contortium of different collectives (from independent hackers, across privat companies and to universities). This initiative may grow from **DI** Experimental Group as scaling of initial project. And development of the platform is not only one aim of this mega-project - platform may be used as sub-project for digital resurrection of deceased famous people who left a lot of content (writers, theoretical scientists, politicians) in "one project - one person" due to initial data heterogeneity. This way with reconstructed famous personalities definitely will has applicable and commercial value, by this reason I can suggest platform name as "Virtual/Vitruvian Man" - **VVMan**. 
+Instead of an infinite number of unsolved questions we can be sure that architecture of platform will divide at two steps or phases: data collection (I) and data interpretation (II). Phase I is simple and doable right now - just collect and preserve materials, no rocket science - just discipline and accuracy. Also important that this step will produce the nearly constant data library with rare updates. Phase II is reconstruction process itself, super-complex process with a lot of unknown elements, probably assisted by Super-AI. It is very important that material collection from Phase I is just important as Super-AI from Phase II: Super-AI could re-create your country house from one photo but if you loose this photo - Super-AI will be powerless, no data for processing. And we already can start the Phase II by current machine learning tools as experimental prototype with continuous updates and enhancements during progress in AI and can produce some limited results. Project definitely long-term, resource-intensive and multi-stage; PR and investments are needed, within the framework of the project, many projects of "digital personalities" of famous personalities will be created and many products will be made.
 
-```markdown
-Syntax highlighted code block
+_Page prepared specially for [Foresign Insitute](https://foresight.org/)_
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evfratov/digitalimmortality/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**_Best regards, Sergey Evfratov_**
